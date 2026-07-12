@@ -6,7 +6,7 @@
 
 ---
 
-The **girlcrowt Field Guide (GFG)** is the learning roadmap I wish I had when I started retraining in system integration.
+The **girlcrowt Field Guide ** is the learning roadmap I wish I had when I started retraining in system integration.
 
 Instead of treating IT as a pile of disconnected subjects, I want to understand how systems, relationships and ideas fit together.
 
@@ -22,7 +22,7 @@ You’ll find experiments, documentation, projects, mistakes, realizations and t
 
 ## The philosophy
 
-The GFG is not built around memorizing technologies.
+The girlcrowt Field Guide is not built around memorizing technologies.
 
 It is built around understanding them.
 
