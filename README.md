@@ -1,4 +1,4 @@
-# Girlcrowt Quest Log
+# girlcrowt Quest Log
 
 ## Build it. Break it. Understand it.
 
@@ -6,7 +6,7 @@
 
 ---
 
-The **Girlcrowt Quest Log (GQL)** is the learning roadmap I wish I had when I started retraining in system integration.
+The **girlcrowt Quest Log (GQL)** is the learning roadmap I wish I had when I started retraining in system integration.
 
 Instead of treating IT as a pile of disconnected subjects, I want to understand how systems, relationships and ideas fit together.
 
@@ -36,7 +36,7 @@ Understanding follows.
 
 ## The roadmap
 
-The Girlcrowt universe is built around five layers:
+The girlcrowt universe is built around five layers:
 
 ```text
 Universe
