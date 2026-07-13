@@ -1,90 +1,201 @@
 # Learning Architecture
 
-> *Version 0.1*
+> *Version 0.2*
 
-This document defines the structure shared by every Adventure in the girlcrowt universe.
+This document describes how learning works inside the girlcrowt Field Guide.
 
-The goal is consistency.
+It is independent of GitHub, folders and file structures.
 
-Every Adventure should feel familiar while remaining free to explore its own ideas.
+Its purpose is to define the learning experience rather than its implementation.
 
 ---
 
-# Adventure Structure
+# The Philosophy
 
-Every Adventure contains:
+Learning begins with curiosity.
 
-- one Adventure README
-- a Quests directory
-- one directory for each Quest
+Understanding grows through experience.
+
+Knowledge becomes craftsmanship through repetition, reflection and application.
+
+The goal is not to collect information.
+
+The goal is to build understanding that transfers to new situations.
+
+---
+
+# The Learning Journey
+
+Every Main Adventure follows the same rhythm.
 
 ```text
-Adventure/
-
-README.md
-
-quests/
-    01-quest/
-        README.md
-        quest-log.md
-
-    02-quest/
-        README.md
-        quest-log.md
-
-    ...
+Challenge Scenario
+        ↓
+Training
+        ↓
+Adventure
+        ↓
+Realm Chapters
+        ↓
+Build
+        ↓
+Field Notes
+        ↓
+Realizations
+        ↓
+World Impact
+        ↓
+Campfire
 ```
 
----
+Each stage exists for a different reason.
 
-# Adventure README
-
-The Adventure README is the map.
-
-It explains:
-
-- the purpose of the Adventure
-- the core question
-- the current status
-- the Quest list
-- expected Realizations
-- future Portals
+Together they form one complete learning cycle.
 
 ---
 
-# Quest README
+# Challenge Scenario
 
-The Quest README is the briefing.
+Every Adventure begins with a meaningful problem.
 
-It explains:
-
-- the question
-- the purpose
-- the investigation
-- completion criteria
+The learner understands why the Adventure matters before learning how to solve it.
 
 ---
 
-# Quest Log
+# Training
 
-The Quest Log is the lived experience.
+Training develops the tools needed for the Adventure.
 
-It records:
+Training is focused.
 
-- starting assumptions
-- process
-- observations
-- mistakes
-- troubleshooting
-- wins
-- Realizations
-- Campfire
-- references
+Training is safe.
 
-The Quest Log is not a report.
+Training exists to prepare for Adventure.
 
-It is a record of the learning process.
+---
 
-Its structure follows the scientific method:
+# Adventure
 
-Question → Investigation → Observation → Reflection.
+Main Adventures are meaningful missions.
+
+They produce something real.
+
+The learner should finish an Adventure with a tangible artifact rather than only theoretical knowledge.
+
+---
+
+# The Realms
+
+Every Main Adventure passes through every Realm.
+
+The Realms are not separate subjects.
+
+They are different perspectives on the same challenge.
+
+- Systems
+- Relationships
+- Communication
+- Trust
+- Expression
+- Knowledge
+- Evaluation
+
+---
+
+# Build
+
+Every Adventure produces a real artifact.
+
+Learning becomes visible through creation.
+
+---
+
+# Field Notes
+
+The process is preserved.
+
+Successes.
+
+Mistakes.
+
+Questions.
+
+Observations.
+
+Troubleshooting.
+
+Sources.
+
+---
+
+# Realizations
+
+Facts become understanding.
+
+Realizations should transfer beyond the current technology.
+
+---
+
+# World Impact
+
+Every Adventure changes the persistent world.
+
+Future Adventures build upon previous ones.
+
+Nothing meaningful is ever wasted.
+
+---
+
+# Campfire
+
+Reflection completes the learning cycle.
+
+The learner asks:
+
+- What changed in the world?
+- What changed in me?
+
+Both answers matter equally.
+
+---
+
+# The Laws of the Field Guide
+
+## Symbiosis
+
+Nothing meaningful exists in isolation.
+
+## Consequence
+
+Every Adventure leaves the world richer than it found it.
+
+## Reflection
+
+Every Adventure changes both the world and the explorer.
+
+## Continuity
+
+Nothing meaningful is ever wasted.
+
+## Purpose
+
+Training exists to prepare for Adventure.
+
+## Wonder
+
+Understanding deepens wonder.
+
+## Agency
+
+Protect the conditions for becoming.
+
+---
+
+# Design Principles
+
+- Questions come first.
+- Understanding follows.
+- Build something meaningful.
+- The artifact matters.
+- The world remembers.
+- The learner becomes.
