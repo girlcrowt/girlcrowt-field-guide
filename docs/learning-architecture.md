@@ -1,4 +1,4 @@
-# Adventure Architecture
+# Learning Architecture
 
 > *Version 0.1*
 
