@@ -6,17 +6,17 @@
 
 ---
 
-The **girlcrowt Field Guide ** is the learning roadmap I wish I had when I started retraining in system integration.
+The **girlcrowt Field Guide** is the learning roadmap I wish I had when I started retraining in system integration.
 
-Instead of treating IT as a pile of disconnected subjects, I want to understand how systems, relationships and ideas fit together.
+Instead of treating IT as a collection of disconnected subjects, I want to understand how systems, relationships and ideas fit together.
 
 This repository is where I turn that goal into practice.
 
-I’m building it in public alongside my retraining as a German IT specialist for system integration. (*Fachinformatiker für Systemintegration IHK*).
+I’m building it in public alongside my retraining as a German IT specialist for system integration (*Fachinformatiker für Systemintegration IHK*).
 
-It is part roadmap, part workshop and part learning log.
+It is an animate learning world: part field guide, part workshop and part lab.
 
-You’ll find experiments, documentation, projects, mistakes, realizations and the occasional side quest.
+You’ll find Adventures, Training, experiments, documentation, projects, mistakes, Realizations and the occasional side quest.
 
 ---
 
@@ -36,36 +36,35 @@ Understanding follows.
 
 ## The roadmap
 
-The girlcrowt universe is built around five layers:
+The Field Guide is built around meaningful Main Adventures rather than isolated lessons.
 
 ```text
-Universe
+Field Guide
     ↓
-Realms
+Training
     ↓
-Adventures
+Main Adventures
     ↓
-Quests
+Seven Realm Lenses
     ↓
 Realizations
-
 ```
 
-Each layer adds another perspective.
+Each Adventure begins with a Challenge Scenario, includes focused Training, passes through all seven Realm lenses and leaves behind a real artifact.
 
-The goal is not to turn me into an expert overnight.
+Realm-specific Side Adventures allow individual skills and perspectives to be explored more deeply.
 
-It is to help me become a thoughtful, self-directed craftsperson who knows how to approach the unknown.
+All of this is to help me become a thoughtful, self-directed craftsperson who knows how to approach the unknown.
 
 ---
 
 ## Current Status
 
-**Version 0** — Worldbuilding
+**Version 0.2** — Expedition
 
-The philosophy, learning architecture and roadmap are currently under active development.
+The learning architecture is established.
 
-The first Adventures are coming soon.
+The first Main Adventure is now under design.
 
 ---
 
