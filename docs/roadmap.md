@@ -1,139 +1,139 @@
-# girlcrowt Quest Log Roadmap
+# The girlcrowt Field Guide Roadmap
 
-> *Version 0.1 — Backbone*
+> *Version 0.2 — Expeditions*
 
-This document describes the current architecture of the girlcrowt universe.
+This document maps the current journey through the girlcrowt Field Guide.
 
-Adventures define the roadmap.
+Main Adventures form the primary path.
 
-Quests, Realizations and Campfires will be developed afterwards.
+Each Main Adventure is a meaningful mission that passes through all seven Realms and leaves behind a real artifact.
 
----
-
-# Universe
-
-## Realm I — Systems
-
-1. The Invisible Machine
-2. Layers of Understanding
-3. From Silence to Life
-4. A Machine That Lives
-5. Everything Has a Place
-6. Speaking the Machine's Language
-7. One Machine Becomes Many
-8. Always Have a Backup Plan
-9. Changing the Machine
-10. When Systems Misbehave
+Realm-specific Side Adventures allow individual perspectives and skills to be explored more deeply.
 
 ---
 
-## Realm II — Relationships
+# The Learning Journey
 
-1. Connection Creates Meaning *(working title)*
-2. Identity
-3. Finding Patterns
-4. The Shape of Information
-5. One, Many, or Somewhere In Between
-6. The Cost of Duplication
-7. Truth
-8. Questions Worth Asking
-9. When Relationships Change
-10. Telling Stories with Data
-
----
-
-## Realm III — Communication
-
-1. No One Speaks Alone
-2. Finding Each Other
-3. Speaking the Same Language
-4. Lost in Translation
-5. One Conversation at a Time
-6. Across the Network
-7. The World Gets Smaller
-8. Speaking at Scale
-9. When Communication Stops
-10. Everything Is Connected
+```text
+Challenge Scenario
+        ↓
+Training
+        ↓
+Main Adventure
+        ↓
+Seven Realm Lenses
+        ↓
+Build
+        ↓
+Field Notes
+        ↓
+Realizations
+        ↓
+World Impact
+        ↓
+Campfire
+```
 
 ---
 
-## Realm IV — Trust
+# The Realms
 
-1. Trust Is Earned
-2. Who Are You?
-3. What Are You Allowed To Do?
-4. Keeping Secrets
-5. Trusting the Messenger
-6. Building Strong Defenses
-7. Expect the Unexpected
-8. Trust, But Verify
-9. When Trust Is Broken
-10. Security as a Mindset
+Every Main Adventure passes through all seven Realms.
 
----
+## Foundational Realms
 
-## Realm V — Expression
+- Systems
+- Relationships
+- Communication
+- Trust
 
-1. Every Creation Begins with an Idea
-2. Teaching Machines
-3. Repeating Yourself Is a Bug
-4. Building Tools
-5. Making Complex Things Simple
-6. Humans Read Code Too
-7. Working Together
-8. Growing Projects
-9. From Idea to Reality
-10. Creation Never Ends
+## Human Realms
+
+- Expression
+- Knowledge
+- Evaluation
+
+The Realms are not isolated subjects.
+
+They are lenses used to examine the same challenge from different perspectives.
 
 ---
 
-## Realm VI — Knowledge
+# Main Adventures
 
-1. Nothing Worth Learning Should Be Lost
-2. Finding Things Again
-3. Connecting Ideas
-4. Write It Down
-5. Patterns Everywhere
-6. Standing on the Shoulders of Others
-7. Teaching Reveals Understanding
-8. Building Your Second Brain
-9. Knowledge That Evolves
-10. Leave Good Notes
+Main Adventures are cross-Realm missions that expand the persistent world.
 
----
+Each Adventure:
 
-## Realm VII — Evaluation *(working title)*
+- begins with a Challenge Scenario,
+- includes focused Training,
+- passes through all seven Realm lenses,
+- produces a real artifact,
+- preserves the process through Field Notes,
+- creates transferable Realizations,
+- and changes the persistent World State.
 
-1. Every Decision Starts with a Question
-2. Seeing the Whole System
-3. Nothing Is Free
-4. Choosing Well
-5. Working with Constraints
-6. The Best Tool for the Job
-7. Thinking Like an Engineer
-8. Learning from Failure
-9. Design Before You Build
-10. Good Judgment
+The Main Adventure sequence is currently being designed.
 
 ---
 
-## Design Principles
+# Realm Side Adventures
 
-The roadmap follows a small number of guiding principles.
+Side Adventures provide focused exploration within one Realm.
+
+They may be used to:
+
+- deepen a concept,
+- practise a specific skill,
+- investigate an optional topic,
+- prepare for a future Main Adventure,
+- or follow a Portal discovered elsewhere in the Field Guide.
+
+Side Adventures do not need to pass through all seven Realms.
+
+---
+
+# Persistent World
+
+The learner does not restart after every Adventure.
+
+Each Main Adventure builds upon what already exists.
+
+Before an Adventure:
+
+```text
+Required World State
+```
+
+After an Adventure:
+
+```text
+World Changes
+```
+
+The infrastructure, documentation, skills and Realizations created previously remain part of the journey.
+
+Nothing meaningful is ever wasted.
+
+---
+
+# Design Principles
 
 - Big picture first. Then model the small.
-- Every Adventure answers one fundamental question.
-- Every Adventure should make the next Adventure feel inevitable.
-- Adventures should be timeless.
-- The architecture should outlive today's technologies.
 - Questions come first. Understanding follows.
+- Training exists to prepare for Adventure.
+- Every Main Adventure passes through all seven Realms.
+- Every Main Adventure produces a real artifact.
+- Every Adventure changes both the world and the explorer.
+- Every Adventure leaves the world richer than it found it.
+- The world remembers.
 
 ---
 
-**Status**
+# Current Status
 
-Version 0.1
+**Version 0.2 — Expeditions**
 
-Backbone complete.
+Learning Architecture defined.
 
-Adventure design in progress.
+Main Adventure sequence in development.
