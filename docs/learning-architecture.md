@@ -24,6 +24,69 @@ The goal is to build understanding that transfers to new situations.
 
 ---
 
+# The Purpose
+
+The goal of the girlcrowt Field Guide is not simply to prepare for exams.
+
+Exams are milestones.
+
+The real goal is to prepare the learner for a lifetime of exploration, problem solving and craftsmanship.
+
+Technical knowledge changes.
+
+The ability to understand unfamiliar systems, ask good questions, document clearly, evaluate thoughtfully and continue learning does not.
+
+Every Adventure therefore serves two purposes:
+
+- solve the challenge in front of you;
+- become a better explorer for every challenge that follows.
+
+The Field Guide is designed to build more than technical competence.
+
+It aims to cultivate curiosity, judgment, resilience, communication, reflection and agency.
+
+These qualities outlast every individual technology.
+
+The exam is not the destination.
+
+It is one campfire along the journey.
+
+---
+
+# The Explorer
+
+The learner is not treated as a student moving through lessons.
+
+They are an explorer building a living world.
+
+Every Adventure expands that world.
+
+Every artifact remains useful.
+
+Every mistake becomes documentation.
+
+Every Realization changes how future Adventures are understood.
+
+The world remembers.
+
+The explorer becomes.
+
+---
+
+## Design Principles
+
+- Questions come first.
+- Understanding follows.
+- Build something meaningful.
+- The artifact matters.
+- Training prepares for Adventure.
+- Every Adventure leaves the world richer than it found it.
+- The world remembers.
+- The learner becomes.
+- Prepare for life, not just the next exam.
+
+---
+
 # The Learning Journey
 
 Every Main Adventure follows the same rhythm.
