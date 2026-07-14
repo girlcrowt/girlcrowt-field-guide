@@ -43,3 +43,45 @@ Connect today's lesson to the upcoming Mission.
 The expedition begins long before the Mission starts.
 
 Training is where explorers prepare their backpack.
+
+---
+
+---
+
+# The Expedition
+
+Training prepares the explorer one step at a time.
+
+## Lesson 01 — Think Like an Explorer
+
+Learn how engineers approach unfamiliar problems.
+
+---
+
+## Lesson 02 — Design Your Lab
+
+Define the requirements of a learning environment before choosing any technology.
+
+---
+
+## Lesson 03 — Assemble Your Toolkit
+
+Choose the tools that will help you build and maintain your Lab.
+
+---
+
+## Lesson 04 — Protect Your Progress
+
+Make experimentation safe through recovery, versioning and backups.
+
+---
+
+## Lesson 05 — Leave Good Notes
+
+Build documentation habits that Future You will appreciate.
+
+---
+
+## Lesson 06 — Prepare the Camp
+
+Verify that your Lab is ready before beginning the Mission.
