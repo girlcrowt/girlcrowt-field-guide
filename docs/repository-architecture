@@ -1,6 +1,6 @@
 # Repository Architecture
 
-> *Version 0.1*
+> *Version 1.0*
 
 This document defines how the girlcrowt Field Guide is organized.
 
@@ -32,23 +32,27 @@ Nothing meaningful is ever wasted.
 
 ```text
 README.md
+
 docs/
+├── learning-architecture.md
+├── repository-architecture.md
+└── roadmap.md
 
 adventures/
-    adventure-name/
-        README.md
-        training/
-        systems/
-        relationships/
-        communication/
-        trust/
-        expression/
-        knowledge/
-        evaluation/
-        build/
-        field-notes/
-        realizations/
-        campfire.md
+└── adventure-name/
+    ├── README.md
+    ├── training/
+    ├── systems/
+    ├── relationships/
+    ├── communication/
+    ├── trust/
+    ├── expression/
+    ├── knowledge/
+    ├── evaluation/
+    ├── build/
+    ├── field-notes/
+    ├── realizations/
+    └── campfire.md
 
 realms/
 
@@ -71,7 +75,7 @@ Introduces the Field Guide.
 
 Answers:
 
-"What is this?"
+> **What is this?**
 
 ---
 
@@ -107,13 +111,12 @@ The Adventures move through them.
 
 ## templates/
 
-Reusable templates.
+Contains reusable templates.
 
 Examples:
 
 - Adventure README
 - Training Lesson
-- Quest
 - Field Notes
 - Campfire
 
@@ -123,11 +126,12 @@ Examples:
 
 Reference material.
 
-External links.
+Examples:
 
-Cheat sheets.
-
-Useful assets.
+- Cheat sheets
+- External resources
+- Reference diagrams
+- Useful assets
 
 ---
 
@@ -154,7 +158,158 @@ README
 └── Campfire
 ```
 
-This consistency allows every Adventure to feel familiar while exploring different challenges.
+The structure remains familiar.
+
+The challenge changes.
+
+---
+
+# Adventure Contract
+
+Every Main Adventure follows the same contract.
+
+The contract creates consistency across the Field Guide while allowing every Adventure to tell a different story.
+
+Consistency creates confidence.
+
+The learner should always know where they are.
+
+The challenge changes.
+
+The structure does not.
+
+---
+
+## Adventure Metadata
+
+Every Adventure begins with a short overview.
+
+It answers:
+
+- Should I start this Adventure?
+- What will I build?
+- What do I need beforehand?
+
+Metadata includes:
+
+- Difficulty
+- Estimated Time
+- Primary Realms
+- Artifact
+- Prerequisites
+- Required World State
+- World State Added
+
+---
+
+## Brief
+
+Introduces the Adventure.
+
+Answers:
+
+- What are we building?
+- Why does it matter?
+- What will exist afterwards?
+- Who will I become?
+
+---
+
+## Challenge Scenario
+
+Presents the real-world problem.
+
+The learner understands why the Adventure exists before learning how to solve it.
+
+---
+
+## Success Criteria
+
+Defines when the Adventure is complete.
+
+Success should be measurable by evaluating the system rather than evaluating the learner.
+
+---
+
+## Training
+
+Training prepares the learner for the Mission.
+
+Each Training section follows the same rhythm:
+
+- Understand
+- Practice
+- Prepare
+
+---
+
+## Mission
+
+The practical work of the Adventure.
+
+This is where the learner builds the solution.
+
+---
+
+## Build
+
+Every Adventure produces a real artifact.
+
+The artifact becomes part of the persistent world.
+
+---
+
+## Field Notes
+
+The engineering notebook.
+
+Every Field Note should capture:
+
+- Goal
+- Approach
+- Mistakes
+- Fixes
+- Observations
+- Sources
+- Next Time
+
+---
+
+## Realizations
+
+Capture transferable understanding.
+
+Record principles rather than isolated facts.
+
+---
+
+## World Impact
+
+Every Adventure updates the persistent world.
+
+Document:
+
+### Added
+
+What now exists?
+
+### Changed
+
+What became different?
+
+---
+
+## Campfire
+
+Reflection completes the Adventure.
+
+Suggested prompts:
+
+- What surprised me?
+- What frustrated me?
+- What am I proud of?
+- What would Future Me thank me for?
+- Where do I see today's lesson appearing elsewhere?
 
 ---
 
@@ -195,11 +350,11 @@ Choose names that describe purpose rather than implementation.
 
 Good:
 
-Build Your First Lab
+> Build Your First Lab
 
 Poor:
 
-VirtualBox Exercise
+> VirtualBox Exercise
 
 The challenge should outlive the technology.
 
