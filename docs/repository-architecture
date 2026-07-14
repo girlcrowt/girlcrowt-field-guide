@@ -1,0 +1,215 @@
+# Repository Architecture
+
+> *Version 0.1*
+
+This document defines how the girlcrowt Field Guide is organized.
+
+Unlike the Learning Architecture, which describes *how learning works*, the Repository Architecture describes *how that learning is represented inside the repository.*
+
+Its purpose is consistency.
+
+Every Adventure should feel familiar.
+
+Every document should have an obvious home.
+
+Every artifact should be easy to find.
+
+---
+
+# Guiding Principles
+
+The repository should reflect the learning journey.
+
+The folder structure exists to support learning, not the other way around.
+
+When a document has more than one responsibility, split it.
+
+Nothing meaningful is ever wasted.
+
+---
+
+# Repository Structure
+
+```text
+README.md
+docs/
+
+adventures/
+    adventure-name/
+        README.md
+        training/
+        systems/
+        relationships/
+        communication/
+        trust/
+        expression/
+        knowledge/
+        evaluation/
+        build/
+        field-notes/
+        realizations/
+        campfire.md
+
+realms/
+
+templates/
+
+resources/
+```
+
+The structure may evolve as the Field Guide grows.
+
+Consistency matters more than perfection.
+
+---
+
+# Repository Responsibilities
+
+## README
+
+Introduces the Field Guide.
+
+Answers:
+
+"What is this?"
+
+---
+
+## docs/
+
+Contains documentation about the Field Guide itself.
+
+Examples:
+
+- Learning Architecture
+- Repository Architecture
+- Roadmap
+
+---
+
+## adventures/
+
+Contains the Main Adventures.
+
+Each Adventure represents one meaningful mission.
+
+---
+
+## realms/
+
+Contains Realm-specific documentation and Side Adventures.
+
+The Realms are persistent.
+
+The Adventures move through them.
+
+---
+
+## templates/
+
+Reusable templates.
+
+Examples:
+
+- Adventure README
+- Training Lesson
+- Quest
+- Field Notes
+- Campfire
+
+---
+
+## resources/
+
+Reference material.
+
+External links.
+
+Cheat sheets.
+
+Useful assets.
+
+---
+
+# Adventure Structure
+
+Every Main Adventure follows the same structure.
+
+```text
+Adventure
+
+README
+│
+├── Training
+├── Systems
+├── Relationships
+├── Communication
+├── Trust
+├── Expression
+├── Knowledge
+├── Evaluation
+├── Build
+├── Field Notes
+├── Realizations
+└── Campfire
+```
+
+This consistency allows every Adventure to feel familiar while exploring different challenges.
+
+---
+
+# Documentation Philosophy
+
+Documentation is part of the learning process.
+
+It is written for Future Me.
+
+Clear documentation is an act of kindness to the next explorer.
+
+---
+
+# Commit Philosophy
+
+Commits describe meaningful changes.
+
+Prefer:
+
+- Refactor...
+- Define...
+- Expand...
+- Create...
+
+over
+
+- Update stuff
+- Changes
+- Fix
+
+Every commit should tell part of the Field Guide's story.
+
+---
+
+# Naming Philosophy
+
+Choose names that describe purpose rather than implementation.
+
+Good:
+
+Build Your First Lab
+
+Poor:
+
+VirtualBox Exercise
+
+The challenge should outlive the technology.
+
+---
+
+# Design Principles
+
+- Repository follows learning.
+- Consistency over cleverness.
+- Split responsibilities.
+- Documentation is part of the artifact.
+- The repository should remain approachable.
+- Build the world one Adventure at a time.
