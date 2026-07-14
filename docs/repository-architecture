@@ -251,6 +251,68 @@ This is where the learner builds the solution.
 
 ---
 
+## Mission Call Sheet
+
+**Objective**
+
+What is the goal of this phase?
+
+---
+
+**Inputs**
+
+What should already exist before starting?
+
+Examples:
+
+- Lab Requirements Profile
+- Toolkit Decision Record
+- Recovery Strategy
+
+---
+
+**Outputs**
+
+What should exist when this phase is complete?
+
+---
+
+**Estimated Effort**
+
+A rough indication of scope, not a deadline.
+
+---
+
+**Difficulty**
+
+Beginner | Intermediate | Advanced
+
+---
+
+**Primary Realms**
+
+Systems • Trust
+
+---
+
+**Engineering Principles**
+
+Which principles should guide the work?
+
+---
+
+**Success Criteria**
+
+How do I know this phase is complete?
+
+---
+
+**World State Updated**
+
+What permanently changes after this phase?
+
+---
+
 ## Build
 
 Every Adventure produces a real artifact.
@@ -368,3 +430,4 @@ The challenge should outlive the technology.
 - Documentation is part of the artifact.
 - The repository should remain approachable.
 - Build the world one Adventure at a time.
+- The Field Guide provides orientation without imposing pace.
