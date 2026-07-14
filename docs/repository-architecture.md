@@ -1,6 +1,6 @@
 # Repository Architecture
 
-> *Version 1.0*
+> *Version 1.1*
 
 This document defines how the girlcrowt Field Guide is organized.
 
@@ -34,6 +34,7 @@ Nothing meaningful is ever wasted.
 README.md
 
 docs/
+├── build.md
 ├── learning-architecture.md
 ├── repository-architecture.md
 └── roadmap.md
@@ -42,17 +43,18 @@ adventures/
 └── adventure-name/
     ├── README.md
     ├── training/
+    ├── mission/
+    ├── build/
+    ├── field-notes/
+    ├── realizations/
+    ├── campfire.md
     ├── systems/
     ├── relationships/
     ├── communication/
     ├── trust/
     ├── expression/
     ├── knowledge/
-    ├── evaluation/
-    ├── build/
-    ├── field-notes/
-    ├── realizations/
-    └── campfire.md
+    └── evaluation/
 
 realms/
 
@@ -87,6 +89,7 @@ Examples:
 
 - Learning Architecture
 - Repository Architecture
+- Build
 - Roadmap
 
 ---
@@ -95,7 +98,7 @@ Examples:
 
 Contains the Main Adventures.
 
-Each Adventure represents one meaningful mission.
+Each Adventure represents one meaningful expedition.
 
 ---
 
@@ -105,7 +108,7 @@ Contains Realm-specific documentation and Side Adventures.
 
 The Realms are persistent.
 
-The Adventures move through them.
+Adventures move through them.
 
 ---
 
@@ -115,9 +118,11 @@ Contains reusable templates.
 
 Examples:
 
-- Adventure README
+- Adventure
 - Training Lesson
+- Mission Phase
 - Field Notes
+- Realizations
 - Campfire
 
 ---
@@ -145,22 +150,44 @@ Adventure
 README
 │
 ├── Training
+├── Mission
+├── Build
+├── Field Notes
+├── Realizations
+├── Campfire
+│
 ├── Systems
 ├── Relationships
 ├── Communication
 ├── Trust
 ├── Expression
 ├── Knowledge
-├── Evaluation
-├── Build
-├── Field Notes
-├── Realizations
-└── Campfire
+└── Evaluation
 ```
 
-The structure remains familiar.
+Every Adventure progresses through a consistent sequence.
 
-The challenge changes.
+```text
+Challenge
+    ↓
+Training
+    ↓
+Mission
+    ↓
+Build
+    ↓
+Field Notes
+    ↓
+Realizations
+    ↓
+Campfire
+```
+
+The Realm folders are different.
+
+They are not stages.
+
+They are persistent perspectives through which every Adventure is explored.
 
 ---
 
@@ -178,6 +205,19 @@ The challenge changes.
 
 The structure does not.
 
+Each stage has one responsibility.
+
+- Training develops understanding.
+- Mission creates the artifact.
+- Build preserves the artifact.
+- Field Notes preserve the journey.
+- Realizations preserve transferable wisdom.
+- Campfire preserves personal growth.
+
+Every document exists for one reason only.
+
+Clear responsibilities create clear thinking.
+
 ---
 
 ## Adventure Metadata
@@ -193,9 +233,9 @@ It answers:
 Metadata includes:
 
 - Difficulty
-- Estimated Time
+- Estimated Effort
 - Primary Realms
-- Artifact
+- Artifacts Produced
 - Prerequisites
 - Required World State
 - World State Added
@@ -233,21 +273,26 @@ Success should be measurable by evaluating the system rather than evaluating the
 
 ## Training
 
-Training prepares the learner for the Mission.
+Training develops understanding before implementation begins.
 
-Each Training section follows the same rhythm:
+Each lesson follows the same rhythm:
 
 - Understand
 - Practice
+- Create the Artifact
 - Prepare
+- Campfire
+- Looking Ahead
 
 ---
 
 ## Mission
 
-The practical work of the Adventure.
+The Mission transforms preparation into reality.
 
-This is where the learner builds the solution.
+Implementation is divided into clearly defined phases.
+
+Each phase follows the same Mission Call Sheet.
 
 ---
 
@@ -262,12 +307,6 @@ What is the goal of this phase?
 **Inputs**
 
 What should already exist before starting?
-
-Examples:
-
-- Lab Requirements Profile
-- Toolkit Decision Record
-- Recovery Strategy
 
 ---
 
@@ -291,7 +330,7 @@ Beginner | Intermediate | Advanced
 
 **Primary Realms**
 
-Systems • Trust
+Which Realm perspectives are most active during this phase?
 
 ---
 
@@ -315,39 +354,55 @@ What permanently changes after this phase?
 
 ## Build
 
-Every Adventure produces a real artifact.
+The Build preserves the completed artifact.
 
-The artifact becomes part of the persistent world.
+It captures what now exists because the Mission was completed.
+
+The Build is evidence, not process.
 
 ---
 
 ## Field Notes
 
-The engineering notebook.
+Field Notes preserve the journey.
 
-Every Field Note should capture:
+They record:
 
-- Goal
-- Approach
-- Mistakes
-- Fixes
-- Observations
-- Sources
-- Next Time
+- context
+- actions
+- observations
+- decisions
+- problems
+- evidence
+- changes
+- open questions
+- next steps
 
 ---
 
 ## Realizations
 
-Capture transferable understanding.
+Realizations preserve transferable wisdom.
 
-Record principles rather than isolated facts.
+They capture principles rather than implementation details.
+
+A good Realization remains useful even if the underlying technology changes.
+
+---
+
+## Campfire
+
+Campfire preserves personal growth.
+
+It is not a technical review.
+
+It is a conversation with yourself after the Adventure has ended.
 
 ---
 
 ## World Impact
 
-Every Adventure updates the persistent world.
+Every Adventure changes the world.
 
 Document:
 
@@ -359,19 +414,7 @@ What now exists?
 
 What became different?
 
----
-
-## Campfire
-
-Reflection completes the Adventure.
-
-Suggested prompts:
-
-- What surprised me?
-- What frustrated me?
-- What am I proud of?
-- What would Future Me thank me for?
-- Where do I see today's lesson appearing elsewhere?
+Every completed Adventure should leave the world richer than it found it.
 
 ---
 
@@ -381,7 +424,7 @@ Documentation is part of the learning process.
 
 It is written for Future Me.
 
-Clear documentation is an act of kindness to the next explorer.
+Clear documentation is an act of kindness to Future Me.
 
 ---
 
@@ -427,6 +470,7 @@ The challenge should outlive the technology.
 - Repository follows learning.
 - Consistency over cleverness.
 - Split responsibilities.
+- Every stage answers one question.
 - Documentation is part of the artifact.
 - The repository should remain approachable.
 - Build the world one Adventure at a time.
