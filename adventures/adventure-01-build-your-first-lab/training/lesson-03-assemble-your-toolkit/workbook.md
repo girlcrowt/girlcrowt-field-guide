@@ -1,4 +1,4 @@
-# Lesson 03 Workbook
+# Workbook
 > **Lesson 03 · Assemble Your Toolkit**
 
 ## Purpose
