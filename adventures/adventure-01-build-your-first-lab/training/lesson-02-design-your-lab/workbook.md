@@ -427,3 +427,5 @@ But: Changes should never be automated without first ensuring that an appropriat
 As many decisions as possible should remain reversible.
 
 The Lab should evolve over time, allowing technologies, architectures and workflows to be replaced when better solutions become available. Stable systems should not be changed without good reason, but no decision made today should unnecessarily limit future growth.
+
+
