@@ -1,6 +1,6 @@
 # Workbook
 
-> **Lesson 02 · Design Your Lab **
+> **Lesson 02 · Design Your Lab**
 
 ---
 
