@@ -14,9 +14,9 @@ labels: []
 assignees: []
 ---
 
-> Engineering Objectives describe outcomes, not tasks.
->
-> **Build. Verify. Document. Reflect.**
+Engineering Objectives describe outcomes, not tasks.
+
+**Build. Verify. Document. Reflect.**
 
 # Objective
 
