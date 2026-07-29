@@ -218,7 +218,7 @@ As the number of Adventures grows, the documentation system should continue to e
 
 # Notes
 
-Thoughts on **As little as possible, as much as needed.**:
+Thoughts on **"As little as possible, as much as needed."**:
 
 Yes, the lessons are a bit overkill for now. But I'd rather spend a little more time on the framework now so I can fully concentrate on the actual Adventures later. 
 
