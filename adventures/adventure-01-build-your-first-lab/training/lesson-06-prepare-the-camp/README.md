@@ -1,5 +1,4 @@
 # Lesson 06
-
 # Prepare the Camp
 
 ## Why this lesson exists
@@ -24,7 +23,7 @@ This lesson brings together everything you have prepared so far and confirms tha
 
 ## The Question
 
-Is my Lab truly ready for exploration?
+**Is my Lab truly ready for exploration?**
 
 ---
 
@@ -32,11 +31,11 @@ Is my Lab truly ready for exploration?
 
 By the end of this lesson you should be able to:
 
-- verify that your preparation is complete;
-- confirm that your Lab satisfies its documented requirements;
-- ensure your recovery strategy can be trusted;
-- confirm that your documentation is complete enough to support future Adventures;
-- begin the Mission with confidence.
+- verify that your preparation is complete
+- confirm that your Lab satisfies its documented requirements
+- ensure your recovery strategy can be trusted
+- confirm that your documentation is complete enough to support future Adventures
+- begin the Mission with confidence
 
 ---
 
@@ -60,7 +59,7 @@ Professional engineers know that confidence comes from preparation—not from lu
 
 ## Practice
 
-Review everything you created during this Adventure.
+Review everything you created while preparing your Lab.
 
 ### Explorer Journal
 
@@ -87,20 +86,18 @@ Review everything you created during this Adventure.
 - Would Future Me understand my work?
 - Is everything stored where it belongs?
 
----
-
-## Mission Readiness Checklist
+### Mission Readiness Checklist
 
 Before beginning the Mission, confirm:
 
-- [ ] My Lab requirements are complete.
-- [ ] My toolkit has been selected.
-- [ ] My recovery strategy has been documented.
-- [ ] My documentation guide is ready.
-- [ ] My host system is prepared.
-- [ ] I understand the purpose of every tool I am about to install.
-- [ ] I know how I will recover if something goes wrong.
-- [ ] I am ready to build.
+- [ ] My Lab requirements are complete
+- [ ] My toolkit has been selected
+- [ ] My host system is prepared
+- [ ] My recovery strategy has been documented
+- [ ] My documentation guide is ready
+- [ ] I understand the purpose of every tool I am about to install
+- [ ] I know how I will recover if something goes wrong
+- [ ] I am ready to build
 
 ---
 
@@ -108,29 +105,18 @@ Before beginning the Mission, confirm:
 
 Create a document called:
 
-```text
-Mission Plan
-```
+**Mission Plan**
 
 Include:
 
-```text
-Mission Objective
-
-Starting Point
-
-Required Tools
-
-Implementation Order
-
-Validation Steps
-
-Rollback Plan
-
-Success Criteria
-
-Next Actions
-```
+- Mission Objective
+- Starting Point
+- Required Tools
+- Implementation Order
+- Validation Steps
+- Rollback Plan
+- Success Criteria
+- Next Actions
 
 This document becomes your roadmap during the Mission.
 
@@ -147,6 +133,8 @@ There is nothing left to decide.
 Everything from this point forward happens inside your Lab.
 
 The Mission begins.
+
+Preparation is complete. From here on, understanding is built by doing.
 
 ---
 
@@ -174,4 +162,4 @@ No more planning.
 
 The Mission begins:
 
-Build Your First Lab.
+**Build Your First Lab.**
